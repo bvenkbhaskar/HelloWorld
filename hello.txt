@@ -1,1 +1,1 @@
-print "Hello world"
+echo "This print is done because of Maven & Jenkins"
